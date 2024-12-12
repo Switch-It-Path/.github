@@ -46,8 +46,7 @@ This is an open-source project! Whether you have templates, resources, or ideas,
 
 ## 🙌 Join the Discussion  
 
-Have a suggestion, idea, or question? Start a discussion [here](https://github.com/Switch-It-Path/discussion).  
-
+Have a suggestion, idea, or question? Start a discussion [here](https://github.com/orgs/Switch-It-Path/discussions/categories/general)
 ---
 
 ## 🤝 Acknowledgments  
